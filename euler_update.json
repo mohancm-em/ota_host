@@ -1,0 +1,18 @@
+{
+  "response": [
+     {
+      "datetime": 1680242740, 
+      "filename": "msm8953_64-ota-eng.euler22.zip", 
+      "id": "84b315d3a31ecb8c252faaf873488ea5", 
+      "romtype": "BETA",
+      "size": 629299375, 
+      "url": "https://github.com/mohancm-em/ota_host/releases/download/v1.0.0/msm8953_64-ota-eng.euler22.zip", 
+      "version": "v1.0.0",
+      "changelog_system": "Full OTA test",
+      "changelog_misc" : "updates to android 10",
+      "changelog_device" : "fixed adb serialno",
+      "changelog_settings" : "New UI",
+      "changelog_securitypatch" : "Updated security patch to Mar 2023"
+    }
+  ]
+}
